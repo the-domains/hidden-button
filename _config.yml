@@ -1,0 +1,14 @@
+layout_spectrum: 0.697053256444633
+typography_spectrum: 0.008616905426606536
+color:
+  brandStrength: 0.3571902900002897
+  lightness: 0.9169186174403876
+  saturation: 0.09182579792104661
+  rhythmicContrast: 0.6250391374342144
+  brandColors:
+    - '#292929'
+    - '#5B7876'
+    - '#8F9E8B'
+    - '#F2E6B6'
+    - '#412A22'
+name: Hidden Button
